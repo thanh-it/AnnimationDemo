@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <scale android:toXScale="50px"
+        android:fromXScale="500px"
+        android:toYScale="50px"
+        android:fromYScale="500px"
+        />
+    <rotate android:toDegrees="0"
+        android:fromDegrees="200" />
+</set>
